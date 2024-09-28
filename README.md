@@ -1,10 +1,28 @@
-# react-point-of-sale
+# React Point of Sale
 
-A simple point of sale application built using react &amp; node.js.
+A simple point of sale application built using **React** and **Node.js**. This application aims to provide a user-friendly interface for managing sales transactions efficiently.
 
-## Note
+## Features
 
-This is still work in progress.
+- User-friendly interface built with React
+- Secure backend powered by Node.js
+- Real-time data updates and transactions
+- Integration with payment gateways (if applicable)
+
+## Technologies Used
+
+- **Frontend**: React, HTML5, CSS3
+- **Backend**: Node.js, Express.js
+- **Database**: (Specify if you're using one, e.g., MongoDB, MySQL)
+- **Version Control**: Git, GitHub
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SaniaProfile/react-point-of-sale.git
 
 ## To run the current code in development mode
 
